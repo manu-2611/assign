@@ -8,7 +8,7 @@ from datetime import datetime
 class WriteFIle():
 
     def __init__(self,):
-        self.file_path = f"{RESULT_PATH}result.json"
+        self.file_path = f"{RESULT_PATH}result.txt"
 
     def write_text_file(self, data):
 

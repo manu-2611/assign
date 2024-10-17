@@ -1,0 +1,1256 @@
+[
+    [
+        {
+            "original_value": 7067,
+            "calculated_value": 84.06545069170807
+        },
+        {
+            "original_value": 3117,
+            "calculated_value": 55.83009940883144
+        },
+        {
+            "original_value": 8865,
+            "calculated_value": 94.15412895885129
+        },
+        {
+            "original_value": 1439,
+            "calculated_value": 37.93415347678132
+        },
+        {
+            "original_value": 792,
+            "calculated_value": 28.142494558940577
+        },
+        {
+            "original_value": 8480,
+            "calculated_value": 92.0869154657707
+        },
+        {
+            "original_value": 5760,
+            "calculated_value": 75.8946638440411
+        },
+        {
+            "original_value": 467,
+            "calculated_value": 21.61018278497431
+        },
+        {
+            "original_value": 5600,
+            "calculated_value": 74.83314773547883
+        },
+        {
+            "original_value": 1738,
+            "calculated_value": 41.689327171351664
+        },
+        {
+            "original_value": 3116,
+            "calculated_value": 55.82114294781145
+        },
+        {
+            "original_value": 4333,
+            "calculated_value": 65.82552696332935
+        },
+        {
+            "original_value": 3108,
+            "calculated_value": 55.749439459065414
+        },
+        {
+            "original_value": 4004,
+            "calculated_value": 63.2771680782255
+        },
+        {
+            "original_value": 6186,
+            "calculated_value": 78.65112840894274
+        },
+        {
+            "original_value": 6208,
+            "calculated_value": 78.79086241436883
+        },
+        {
+            "original_value": 1581,
+            "calculated_value": 39.761790704142086
+        },
+        {
+            "original_value": 5255,
+            "calculated_value": 72.49137879775773
+        },
+        {
+            "original_value": 5030,
+            "calculated_value": 70.92249290598858
+        },
+        {
+            "original_value": 5306,
+            "calculated_value": 72.84229540589725
+        },
+        {
+            "original_value": 6103,
+            "calculated_value": 78.12169993030106
+        },
+        {
+            "original_value": 9000,
+            "calculated_value": 94.86832980505137
+        },
+        {
+            "original_value": 6751,
+            "calculated_value": 82.16446920658588
+        },
+        {
+            "original_value": 7699,
+            "calculated_value": 87.74394566008529
+        },
+        {
+            "original_value": 5998,
+            "calculated_value": 77.44675590365293
+        },
+        {
+            "original_value": 4773,
+            "calculated_value": 69.0869017976635
+        },
+        {
+            "original_value": 8455,
+            "calculated_value": 91.95107394696377
+        },
+        {
+            "original_value": 4731,
+            "calculated_value": 68.78226515607058
+        },
+        {
+            "original_value": 2347,
+            "calculated_value": 48.4458460551573
+        },
+        {
+            "original_value": 7451,
+            "calculated_value": 86.31917515824627
+        },
+        {
+            "original_value": 4620,
+            "calculated_value": 67.97058187186572
+        },
+        {
+            "original_value": 8556,
+            "calculated_value": 92.49864863877742
+        },
+        {
+            "original_value": 7951,
+            "calculated_value": 89.1683800458436
+        },
+        {
+            "original_value": 3298,
+            "calculated_value": 57.42821606144492
+        },
+        {
+            "original_value": 5160,
+            "calculated_value": 71.83313998427188
+        },
+        {
+            "original_value": 4718,
+            "calculated_value": 68.68769904429759
+        },
+        {
+            "original_value": 7257,
+            "calculated_value": 85.18802732778826
+        },
+        {
+            "original_value": 5628,
+            "calculated_value": 75.0199973340442
+        },
+        {
+            "original_value": 6189,
+            "calculated_value": 78.67019766086774
+        },
+        {
+            "original_value": 6606,
+            "calculated_value": 81.2773031048644
+        },
+        {
+            "original_value": 8707,
+            "calculated_value": 93.31130692472375
+        },
+        {
+            "original_value": 5744,
+            "calculated_value": 75.78918128598566
+        },
+        {
+            "original_value": 7993,
+            "calculated_value": 89.40357934669059
+        },
+        {
+            "original_value": 7838,
+            "calculated_value": 88.53247991556545
+        },
+        {
+            "original_value": 6595,
+            "calculated_value": 81.20960534321048
+        },
+        {
+            "original_value": 1787,
+            "calculated_value": 42.2729227756965
+        },
+        {
+            "original_value": 3952,
+            "calculated_value": 62.864934582006846
+        },
+        {
+            "original_value": 7578,
+            "calculated_value": 87.05170877128145
+        },
+        {
+            "original_value": 1761,
+            "calculated_value": 41.96427051671457
+        },
+        {
+            "original_value": 1963,
+            "calculated_value": 44.30575583375144
+        },
+        {
+            "original_value": 6463,
+            "calculated_value": 80.39278574598593
+        },
+        {
+            "original_value": 8883,
+            "calculated_value": 94.24966843443005
+        },
+        {
+            "original_value": 5860,
+            "calculated_value": 76.55063683601855
+        },
+        {
+            "original_value": 6971,
+            "calculated_value": 83.49251463454674
+        },
+        {
+            "original_value": 5615,
+            "calculated_value": 74.93330367733695
+        },
+        {
+            "original_value": 2760,
+            "calculated_value": 52.53570214625479
+        },
+        {
+            "original_value": 3541,
+            "calculated_value": 59.50630218724736
+        },
+        {
+            "original_value": 2718,
+            "calculated_value": 52.1344415909483
+        },
+        {
+            "original_value": 1817,
+            "calculated_value": 42.62628297189423
+        },
+        {
+            "original_value": 7950,
+            "calculated_value": 89.16277250063504
+        },
+        {
+            "original_value": 632,
+            "calculated_value": 25.13961017995307
+        },
+        {
+            "original_value": 6516,
+            "calculated_value": 80.72174428244226
+        },
+        {
+            "original_value": 7616,
+            "calculated_value": 87.26969691708571
+        },
+        {
+            "original_value": 7254,
+            "calculated_value": 85.17041739947034
+        },
+        {
+            "original_value": 5723,
+            "calculated_value": 75.65051222562872
+        },
+        {
+            "original_value": 4674,
+            "calculated_value": 68.36665854054884
+        },
+        {
+            "original_value": 8476,
+            "calculated_value": 92.06519429187124
+        },
+        {
+            "original_value": 1950,
+            "calculated_value": 44.15880433163923
+        },
+        {
+            "original_value": 7824,
+            "calculated_value": 88.45337754998393
+        },
+        {
+            "original_value": 1547,
+            "calculated_value": 39.331920878594275
+        },
+        {
+            "original_value": 6964,
+            "calculated_value": 83.45058418010026
+        },
+        {
+            "original_value": 1822,
+            "calculated_value": 42.68489194082609
+        },
+        {
+            "original_value": 5030,
+            "calculated_value": 70.92249290598858
+        },
+        {
+            "original_value": 1232,
+            "calculated_value": 35.09985754956849
+        },
+        {
+            "original_value": 2833,
+            "calculated_value": 53.225933528685054
+        },
+        {
+            "original_value": 5987,
+            "calculated_value": 77.37570678190927
+        },
+        {
+            "original_value": 984,
+            "calculated_value": 31.368774282716245
+        },
+        {
+            "original_value": 6797,
+            "calculated_value": 82.44392033376384
+        },
+        {
+            "original_value": 1964,
+            "calculated_value": 44.31703961232068
+        },
+        {
+            "original_value": 751,
+            "calculated_value": 27.40437921208944
+        },
+        {
+            "original_value": 8265,
+            "calculated_value": 90.91204540653565
+        },
+        {
+            "original_value": 4442,
+            "calculated_value": 66.64833081180653
+        },
+        {
+            "original_value": 8133,
+            "calculated_value": 90.18314698434514
+        },
+        {
+            "original_value": 131,
+            "calculated_value": 11.445523142259598
+        },
+        {
+            "original_value": 6497,
+            "calculated_value": 80.60397012554654
+        },
+        {
+            "original_value": 7522,
+            "calculated_value": 86.7294644281861
+        },
+        {
+            "original_value": 580,
+            "calculated_value": 24.08318915758459
+        },
+        {
+            "original_value": 7162,
+            "calculated_value": 84.62860036654276
+        },
+        {
+            "original_value": 2555,
+            "calculated_value": 50.547007824400445
+        },
+        {
+            "original_value": 2655,
+            "calculated_value": 51.526692111953004
+        },
+        {
+            "original_value": 7643,
+            "calculated_value": 87.42425292789181
+        },
+        {
+            "original_value": 3020,
+            "calculated_value": 54.954526656136345
+        },
+        {
+            "original_value": 6382,
+            "calculated_value": 79.88742078700501
+        },
+        {
+            "original_value": 2686,
+            "calculated_value": 51.82663407939975
+        },
+        {
+            "original_value": 2932,
+            "calculated_value": 54.147945482723536
+        },
+        {
+            "original_value": 3253,
+            "calculated_value": 57.0350769263968
+        },
+        {
+            "original_value": 2713,
+            "calculated_value": 52.08646657242167
+        },
+        {
+            "original_value": 1715,
+            "calculated_value": 41.41255848169731
+        },
+        {
+            "original_value": 2858,
+            "calculated_value": 53.46026561849464
+        },
+        {
+            "original_value": 3794,
+            "calculated_value": 61.59545437773797
+        },
+        {
+            "original_value": 5636,
+            "calculated_value": 75.07329751649384
+        },
+        {
+            "original_value": 6088,
+            "calculated_value": 78.02563681252464
+        },
+        {
+            "original_value": 2180,
+            "calculated_value": 46.69047011971501
+        },
+        {
+            "original_value": 6786,
+            "calculated_value": 82.37718130647589
+        },
+        {
+            "original_value": 4176,
+            "calculated_value": 64.62197768561404
+        },
+        {
+            "original_value": 7021,
+            "calculated_value": 83.79140767405688
+        },
+        {
+            "original_value": 375,
+            "calculated_value": 19.364916731037084
+        },
+        {
+            "original_value": 5661,
+            "calculated_value": 75.23961722390672
+        },
+        {
+            "original_value": 4188,
+            "calculated_value": 64.71475874945375
+        },
+        {
+            "original_value": 7812,
+            "calculated_value": 88.38551917593742
+        },
+        {
+            "original_value": 1472,
+            "calculated_value": 38.36665218650175
+        },
+        {
+            "original_value": 6434,
+            "calculated_value": 80.2122185206219
+        },
+        {
+            "original_value": 1339,
+            "calculated_value": 36.59234892706397
+        },
+        {
+            "original_value": 5949,
+            "calculated_value": 77.12976079309465
+        },
+        {
+            "original_value": 3377,
+            "calculated_value": 58.111960903070546
+        },
+        {
+            "original_value": 897,
+            "calculated_value": 29.949958263743873
+        },
+        {
+            "original_value": 3133,
+            "calculated_value": 55.97320787662612
+        },
+        {
+            "original_value": 2438,
+            "calculated_value": 49.37610758251404
+        },
+        {
+            "original_value": 2635,
+            "calculated_value": 51.332251070842396
+        },
+        {
+            "original_value": 4594,
+            "calculated_value": 67.77905281132217
+        },
+        {
+            "original_value": 4846,
+            "calculated_value": 69.61321713582845
+        },
+        {
+            "original_value": 4803,
+            "calculated_value": 69.30367955599472
+        },
+        {
+            "original_value": 7490,
+            "calculated_value": 86.54478609367523
+        },
+        {
+            "original_value": 3346,
+            "calculated_value": 57.844619455918284
+        },
+        {
+            "original_value": 7454,
+            "calculated_value": 86.3365507765975
+        },
+        {
+            "original_value": 4799,
+            "calculated_value": 69.27481504847198
+        },
+        {
+            "original_value": 91,
+            "calculated_value": 9.539392014169456
+        },
+        {
+            "original_value": 761,
+            "calculated_value": 27.586228448267445
+        },
+        {
+            "original_value": 7947,
+            "calculated_value": 89.14594774862175
+        },
+        {
+            "original_value": 6009,
+            "calculated_value": 77.51773990513398
+        },
+        {
+            "original_value": 6096,
+            "calculated_value": 78.07688518377255
+        },
+        {
+            "original_value": 7920,
+            "calculated_value": 88.99438184514796
+        },
+        {
+            "original_value": 1722,
+            "calculated_value": 41.49698784249286
+        },
+        {
+            "original_value": 1547,
+            "calculated_value": 39.331920878594275
+        },
+        {
+            "original_value": 1880,
+            "calculated_value": 43.3589667773576
+        },
+        {
+            "original_value": 966,
+            "calculated_value": 31.080540535840107
+        },
+        {
+            "original_value": 2688,
+            "calculated_value": 51.84592558726288
+        },
+        {
+            "original_value": 7778,
+            "calculated_value": 88.19297024139736
+        },
+        {
+            "original_value": 3546,
+            "calculated_value": 59.54829972383762
+        },
+        {
+            "original_value": 2104,
+            "calculated_value": 45.86937976471886
+        },
+        {
+            "original_value": 5356,
+            "calculated_value": 73.18469785412795
+        },
+        {
+            "original_value": 4545,
+            "calculated_value": 67.4166151627327
+        },
+        {
+            "original_value": 1860,
+            "calculated_value": 43.12771730569565
+        },
+        {
+            "original_value": 3504,
+            "calculated_value": 59.19459434779497
+        },
+        {
+            "original_value": 5744,
+            "calculated_value": 75.78918128598566
+        },
+        {
+            "original_value": 8721,
+            "calculated_value": 93.38629449764028
+        },
+        {
+            "original_value": 8257,
+            "calculated_value": 90.86803618434813
+        },
+        {
+            "original_value": 565,
+            "calculated_value": 23.769728648009426
+        },
+        {
+            "original_value": 3552,
+            "calculated_value": 59.59865770300536
+        },
+        {
+            "original_value": 5548,
+            "calculated_value": 74.48489779814429
+        },
+        {
+            "original_value": 5995,
+            "calculated_value": 77.42738533619743
+        },
+        {
+            "original_value": 8438,
+            "calculated_value": 91.85858696931932
+        },
+        {
+            "original_value": 3361,
+            "calculated_value": 57.97413216254298
+        },
+        {
+            "original_value": 2282,
+            "calculated_value": 47.77028364998475
+        },
+        {
+            "original_value": 642,
+            "calculated_value": 25.337718918639855
+        },
+        {
+            "original_value": 2602,
+            "calculated_value": 51.0098029794274
+        },
+        {
+            "original_value": 5253,
+            "calculated_value": 72.47758274114831
+        },
+        {
+            "original_value": 5394,
+            "calculated_value": 73.44385610791416
+        },
+        {
+            "original_value": 5523,
+            "calculated_value": 74.31688906298487
+        },
+        {
+            "original_value": 5646,
+            "calculated_value": 75.1398695766768
+        },
+        {
+            "original_value": 5021,
+            "calculated_value": 70.8590149522275
+        },
+        {
+            "original_value": 6051,
+            "calculated_value": 77.78817390837762
+        },
+        {
+            "original_value": 474,
+            "calculated_value": 21.77154105707724
+        },
+        {
+            "original_value": 1251,
+            "calculated_value": 35.369478367654786
+        },
+        {
+            "original_value": 2832,
+            "calculated_value": 53.21653878260028
+        },
+        {
+            "original_value": 7054,
+            "calculated_value": 83.98809439438426
+        },
+        {
+            "original_value": 2147,
+            "calculated_value": 46.33573135281238
+        },
+        {
+            "original_value": 3309,
+            "calculated_value": 57.52390807307862
+        },
+        {
+            "original_value": 7824,
+            "calculated_value": 88.45337754998393
+        },
+        {
+            "original_value": 7595,
+            "calculated_value": 87.14929718592113
+        },
+        {
+            "original_value": 1089,
+            "calculated_value": 33.0
+        },
+        {
+            "original_value": 8454,
+            "calculated_value": 91.94563611178074
+        },
+        {
+            "original_value": 1572,
+            "calculated_value": 39.64845520319802
+        },
+        {
+            "original_value": 1055,
+            "calculated_value": 32.48076353782343
+        },
+        {
+            "original_value": 8553,
+            "calculated_value": 92.4824307639024
+        },
+        {
+            "original_value": 484,
+            "calculated_value": 22.0
+        },
+        {
+            "original_value": 1994,
+            "calculated_value": 44.654227123532216
+        },
+        {
+            "original_value": 2359,
+            "calculated_value": 48.569537778323564
+        },
+        {
+            "original_value": 3481,
+            "calculated_value": 59.0
+        },
+        {
+            "original_value": 8585,
+            "calculated_value": 92.65527507918802
+        },
+        {
+            "original_value": 1750,
+            "calculated_value": 41.83300132670378
+        },
+        {
+            "original_value": 629,
+            "calculated_value": 25.079872407968907
+        },
+        {
+            "original_value": 2911,
+            "calculated_value": 53.95368384086484
+        },
+        {
+            "original_value": 4215,
+            "calculated_value": 64.92303135251773
+        },
+        {
+            "original_value": 2621,
+            "calculated_value": 51.19570294468082
+        },
+        {
+            "original_value": 2911,
+            "calculated_value": 53.95368384086484
+        },
+        {
+            "original_value": 554,
+            "calculated_value": 23.53720459187964
+        },
+        {
+            "original_value": 3896,
+            "calculated_value": 62.41794613730894
+        },
+        {
+            "original_value": 6921,
+            "calculated_value": 83.19254774317228
+        },
+        {
+            "original_value": 6641,
+            "calculated_value": 81.49233092751734
+        },
+        {
+            "original_value": 4952,
+            "calculated_value": 70.37044834303673
+        },
+        {
+            "original_value": 227,
+            "calculated_value": 15.066519173319364
+        },
+        {
+            "original_value": 1983,
+            "calculated_value": 44.53088815642464
+        },
+        {
+            "original_value": 4060,
+            "calculated_value": 63.71812928829596
+        },
+        {
+            "original_value": 1136,
+            "calculated_value": 33.704599092705436
+        },
+        {
+            "original_value": 8605,
+            "calculated_value": 92.76313923105448
+        },
+        {
+            "original_value": 8460,
+            "calculated_value": 91.97825830053534
+        },
+        {
+            "original_value": 1829,
+            "calculated_value": 42.76680956068619
+        },
+        {
+            "original_value": 1830,
+            "calculated_value": 42.77849927241488
+        },
+        {
+            "original_value": 1145,
+            "calculated_value": 33.83784863137726
+        },
+        {
+            "original_value": 5443,
+            "calculated_value": 73.77669008569035
+        },
+        {
+            "original_value": 1042,
+            "calculated_value": 32.28002478313795
+        },
+        {
+            "original_value": 118,
+            "calculated_value": 10.862780491200215
+        },
+        {
+            "original_value": 8969,
+            "calculated_value": 94.70480452437458
+        },
+        {
+            "original_value": 2260,
+            "calculated_value": 47.53945729601885
+        },
+        {
+            "original_value": 3100,
+            "calculated_value": 55.67764362830022
+        },
+        {
+            "original_value": 3813,
+            "calculated_value": 61.74949392505172
+        },
+        {
+            "original_value": 1554,
+            "calculated_value": 39.42080668885405
+        },
+        {
+            "original_value": 668,
+            "calculated_value": 25.84569596664017
+        },
+        {
+            "original_value": 2783,
+            "calculated_value": 52.754146756439916
+        },
+        {
+            "original_value": 3436,
+            "calculated_value": 58.61740355901138
+        },
+        {
+            "original_value": 2712,
+            "calculated_value": 52.076866265166146
+        },
+        {
+            "original_value": 5712,
+            "calculated_value": 75.57777451076474
+        },
+        {
+            "original_value": 1230,
+            "calculated_value": 35.07135583350036
+        },
+        {
+            "original_value": 1267,
+            "calculated_value": 35.59494346111537
+        },
+        {
+            "original_value": 5835,
+            "calculated_value": 76.38717169787084
+        },
+        {
+            "original_value": 6734,
+            "calculated_value": 82.06095295571457
+        },
+        {
+            "original_value": 4884,
+            "calculated_value": 69.88562083862459
+        },
+        {
+            "original_value": 984,
+            "calculated_value": 31.368774282716245
+        },
+        {
+            "original_value": 5011,
+            "calculated_value": 70.78841713161836
+        },
+        {
+            "original_value": 5983,
+            "calculated_value": 77.34985455707076
+        },
+        {
+            "original_value": 7875,
+            "calculated_value": 88.74119674649424
+        },
+        {
+            "original_value": 408,
+            "calculated_value": 20.199009876724155
+        },
+        {
+            "original_value": 2441,
+            "calculated_value": 49.4064773081425
+        },
+        {
+            "original_value": 3413,
+            "calculated_value": 58.42088667591412
+        },
+        {
+            "original_value": 4790,
+            "calculated_value": 69.2098258919931
+        },
+        {
+            "original_value": 8947,
+            "calculated_value": 94.58858282054976
+        },
+        {
+            "original_value": 3924,
+            "calculated_value": 62.6418390534633
+        },
+        {
+            "original_value": 3689,
+            "calculated_value": 60.73713855624086
+        },
+        {
+            "original_value": 6528,
+            "calculated_value": 80.79603950689662
+        },
+        {
+            "original_value": 6502,
+            "calculated_value": 80.63498000247783
+        },
+        {
+            "original_value": 8017,
+            "calculated_value": 89.5377015563835
+        },
+        {
+            "original_value": 3658,
+            "calculated_value": 60.481402100149765
+        },
+        {
+            "original_value": 7868,
+            "calculated_value": 88.70174744614674
+        },
+        {
+            "original_value": 937,
+            "calculated_value": 30.610455730027933
+        },
+        {
+            "original_value": 4168,
+            "calculated_value": 64.5600495662759
+        },
+        {
+            "original_value": 4921,
+            "calculated_value": 70.14983962918234
+        },
+        {
+            "original_value": 8566,
+            "calculated_value": 92.5526876973327
+        },
+        {
+            "original_value": 5574,
+            "calculated_value": 74.65922581972036
+        },
+        {
+            "original_value": 6899,
+            "calculated_value": 83.06021911842033
+        },
+        {
+            "original_value": 8596,
+            "calculated_value": 92.71461589199407
+        },
+        {
+            "original_value": 403,
+            "calculated_value": 20.074859899884732
+        },
+        {
+            "original_value": 3548,
+            "calculated_value": 59.565090447341724
+        },
+        {
+            "original_value": 5604,
+            "calculated_value": 74.85986908885161
+        },
+        {
+            "original_value": 1496,
+            "calculated_value": 38.67815921162743
+        },
+        {
+            "original_value": 1135,
+            "calculated_value": 33.689761055846034
+        },
+        {
+            "original_value": 8408,
+            "calculated_value": 91.6951470907812
+        },
+        {
+            "original_value": 6714,
+            "calculated_value": 81.93900170248598
+        },
+        {
+            "original_value": 1735,
+            "calculated_value": 41.65333119931706
+        },
+        {
+            "original_value": 4073,
+            "calculated_value": 63.8200595424354
+        },
+        {
+            "original_value": 8764,
+            "calculated_value": 93.6162379077476
+        },
+        {
+            "original_value": 3165,
+            "calculated_value": 56.25833271614081
+        },
+        {
+            "original_value": 7246,
+            "calculated_value": 85.12343978012167
+        },
+        {
+            "original_value": 5717,
+            "calculated_value": 75.61084578286372
+        },
+        {
+            "original_value": 1956,
+            "calculated_value": 44.22668877499196
+        },
+        {
+            "original_value": 3632,
+            "calculated_value": 60.266076693277455
+        },
+        {
+            "original_value": 1535,
+            "calculated_value": 39.179076048319466
+        },
+        {
+            "original_value": 5747,
+            "calculated_value": 75.80897044545586
+        },
+        {
+            "original_value": 1649,
+            "calculated_value": 40.607881008493905
+        },
+        {
+            "original_value": 755,
+            "calculated_value": 27.477263328068172
+        },
+        {
+            "original_value": 644,
+            "calculated_value": 25.37715508089904
+        },
+        {
+            "original_value": 6305,
+            "calculated_value": 79.40403012442127
+        },
+        {
+            "original_value": 4764,
+            "calculated_value": 69.02173570694958
+        },
+        {
+            "original_value": 4879,
+            "calculated_value": 69.84983894040128
+        },
+        {
+            "original_value": 7009,
+            "calculated_value": 83.71977066380438
+        },
+        {
+            "original_value": 7281,
+            "calculated_value": 85.32877591996736
+        },
+        {
+            "original_value": 5120,
+            "calculated_value": 71.55417527999327
+        },
+        {
+            "original_value": 1380,
+            "calculated_value": 37.14835124201342
+        },
+        {
+            "original_value": 8685,
+            "calculated_value": 93.1933474020544
+        },
+        {
+            "original_value": 8345,
+            "calculated_value": 91.35097153287424
+        },
+        {
+            "original_value": 7287,
+            "calculated_value": 85.36392680752216
+        },
+        {
+            "original_value": 2015,
+            "calculated_value": 44.88875137492688
+        },
+        {
+            "original_value": 2493,
+            "calculated_value": 49.92995093127971
+        },
+        {
+            "original_value": 3052,
+            "calculated_value": 55.24490926773253
+        },
+        {
+            "original_value": 7374,
+            "calculated_value": 85.871997764114
+        },
+        {
+            "original_value": 3292,
+            "calculated_value": 57.37595315112421
+        },
+        {
+            "original_value": 2274,
+            "calculated_value": 47.686476070265456
+        },
+        {
+            "original_value": 4528,
+            "calculated_value": 67.29041536504289
+        },
+        {
+            "original_value": 8497,
+            "calculated_value": 92.17917335276988
+        },
+        {
+            "original_value": 3152,
+            "calculated_value": 56.142675390472796
+        },
+        {
+            "original_value": 1405,
+            "calculated_value": 37.48332962798263
+        },
+        {
+            "original_value": 791,
+            "calculated_value": 28.124722220850465
+        },
+        {
+            "original_value": 985,
+            "calculated_value": 31.38470965295043
+        },
+        {
+            "original_value": 5900,
+            "calculated_value": 76.81145747868608
+        },
+        {
+            "original_value": 509,
+            "calculated_value": 22.561028345356956
+        },
+        {
+            "original_value": 3076,
+            "calculated_value": 55.46169849544819
+        },
+        {
+            "original_value": 5921,
+            "calculated_value": 76.94803441284255
+        },
+        {
+            "original_value": 8107,
+            "calculated_value": 90.03888049059695
+        },
+        {
+            "original_value": 1713,
+            "calculated_value": 41.38840417314975
+        },
+        {
+            "original_value": 3835,
+            "calculated_value": 61.927376821564145
+        },
+        {
+            "original_value": 6137,
+            "calculated_value": 78.33900688673555
+        },
+        {
+            "original_value": 6644,
+            "calculated_value": 81.51073548925933
+        },
+        {
+            "original_value": 1876,
+            "calculated_value": 43.31281565541543
+        },
+        {
+            "original_value": 1777,
+            "calculated_value": 42.15447781671598
+        },
+        {
+            "original_value": 3261,
+            "calculated_value": 57.105166141076936
+        },
+        {
+            "original_value": 1268,
+            "calculated_value": 35.608987629529715
+        },
+        {
+            "original_value": 3797,
+            "calculated_value": 61.61980201201558
+        },
+        {
+            "original_value": 7850,
+            "calculated_value": 88.60022573334675
+        },
+        {
+            "original_value": 1141,
+            "calculated_value": 33.77869150810907
+        },
+        {
+            "original_value": 3830,
+            "calculated_value": 61.886993787063204
+        },
+        {
+            "original_value": -8069,
+            "calculated_value": 89.8276126811795
+        },
+        {
+            "original_value": "8468",
+            "calculated_value": 92.02173656261873
+        },
+        {
+            "original_value": -6150,
+            "calculated_value": 78.4219357067906
+        },
+        {
+            "original_value": -5466,
+            "calculated_value": 73.93240155709809
+        },
+        {
+            "original_value": -2233,
+            "calculated_value": 47.25462940284264
+        },
+        {
+            "original_value": 616,
+            "calculated_value": 24.819347291981714
+        },
+        {
+            "original_value": "4477",
+            "calculated_value": 66.91038783328041
+        },
+        {
+            "original_value": 5464,
+            "calculated_value": 73.91887445030531
+        },
+        {
+            "original_value": 8533,
+            "calculated_value": 92.37423883312923
+        },
+        {
+            "original_value": "-8777",
+            "calculated_value": null
+        },
+        {
+            "original_value": 5683,
+            "calculated_value": 75.38567503179898
+        },
+        {
+            "original_value": "-5865",
+            "calculated_value": null
+        },
+        {
+            "original_value": "-980",
+            "calculated_value": null
+        }
+    ]
+]
