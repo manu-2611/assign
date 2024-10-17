@@ -4,8 +4,6 @@ from config import DATA_PATH
 
 
 class CalculateSqrt():
-    def __init__(self):
-        pass
 
     def from_json(self,):
         files_obj = GetFiles(DATA_PATH)

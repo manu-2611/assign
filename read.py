@@ -15,16 +15,6 @@ class Calculation:
     def safe_sqrt(self, number):
          return math.sqrt(number)
 
-        # if not isinstance(number, (int, float)):
-        #     logger.warning(f"Attempted to compute square root of an invalid number type: {number}")
-        #     return None
-        
-        # if number <= 0:
-        #     logger.warning(f"Attempted to compute square root of an invalid number: {number}")
-        #     return None
-
-        # else:
-
     def retry_sqrt(self, number, retries=RETRY_COUNT):
         """
         Attempt to compute the square root of a number with a predefined retry mechanism.
@@ -39,6 +29,7 @@ class Calculation:
         attempt = 0
         while attempt < retries:
             try:
+
                 if attempt == 0:
                     result = self.safe_sqrt(number)
 
@@ -121,7 +112,6 @@ class GetFiles():
 
     def __init__(self, path):
         self.path = path
-        pass
 
     def get_list_of_all_files(self):
 
@@ -132,7 +122,6 @@ class ReadFIle():
 
     def __init__(self, file_name):
         self.file_name = file_name
-        pass
 
 
     def read_json(self):
@@ -140,5 +129,3 @@ class ReadFIle():
             json_obj = json.load(json_file)
             return json_obj
 
-
-        pass
